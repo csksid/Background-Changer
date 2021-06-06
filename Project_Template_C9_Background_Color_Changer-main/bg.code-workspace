@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../c9_student_activity-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project_Template_C9_Background_Color_Changer-main"
+	}
+}
